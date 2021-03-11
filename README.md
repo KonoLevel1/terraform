@@ -1,6 +1,7 @@
 # terraform
 Studying terraform
 
+Terraformを使って色々作っては壊してみる。
 ## 環境導入（MacOS)
 ### Homebrew導入
 
